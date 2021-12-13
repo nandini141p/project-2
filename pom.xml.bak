@@ -192,7 +192,7 @@
                     <jettyXml>src/main/resources/jetty/jetty-context.xml</jettyXml>
                     <scanIntervalSeconds>0</scanIntervalSeconds>
                     <webAppConfig>
-                        <contextPath>devops66.war</contextPath>
+                        <contextPath>/iooo</contextPath>
                     </webAppConfig>
                 </configuration>
             </plugin>
